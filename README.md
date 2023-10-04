@@ -14,6 +14,8 @@ The files in this repo includes everything I used to generate the plots in [1]. 
 
 ## References
 
-- [1] Z. Hatab, M. E. Gadringer, A. B. Alothman Alterkawi, and W. Bösch, "Validation of the Reference Impedance in Multiline Calibration with Stepped Impedance Standards," e-print: <https://arxiv.org/abs/2209.09163>
-- [2] Z. Hatab, M. Gadringer and W. Bösch, "Improving The Reliability of The Multiline TRL Calibration Algorithm," 2022 98th ARFTG Microwave Measurement Conference (ARFTG), 2022, pp. 1-5, doi: [10.1109/ARFTG52954.2022.9844064](https://doi.org/10.1109/ARFTG52954.2022.9844064)
-- [3] Z. Hatab, M. Gadringer, and W. Bösch, "Propagation of Linear Uncertainties through Multiline Thru-Reflect-Line Calibration," e-print: <https://arxiv.org/abs/2301.09126>
+[1] Z. Hatab, M. E. Gadringer, A. B. Alothman Alterkawi, and W. Bösch, "Validation of the Reference Impedance in Multiline Calibration with Stepped Impedance Standards," in _IEEE Open Journal of Instrumentation and Measurement_, vol. 2, pp. 1-12, 2023, doi: [10.1109/OJIM.2023.3315349](http://dx.doi.org/10.1109/OJIM.2023.3315349).
+
+[2] Z. Hatab, M. Gadringer and W. Bösch, "Improving The Reliability of The Multiline TRL Calibration Algorithm," 2022 98th ARFTG Microwave Measurement Conference (ARFTG), 2022, pp. 1-5, doi: [10.1109/ARFTG52954.2022.9844064](https://doi.org/10.1109/ARFTG52954.2022.9844064)
+
+[3] Z. Hatab, M. E. Gadringer, and W. Bösch, "Propagation of Linear Uncertainties through Multiline Thru-Reflect-Line Calibration," in _IEEE Transactions on Instrumentation and Measurement_, vol. 72, pp. 1-9, 2023, doi: [10.1109/TIM.2023.3296123](http://dx.doi.org/10.1109/TIM.2023.3296123).
